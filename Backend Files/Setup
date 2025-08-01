@@ -1,0 +1,3 @@
+nest new food-delivery-backend
+cd food-delivery-backend
+npm install @nestjs/typeorm typeorm sqlite3 @nestjs/jwt passport-jwt bcryptjs nodemailer
